@@ -1,7 +1,7 @@
 # Genetic Mutation 🧬
 
 **Genetic Mutation** is a puzzle-platformer game where you control a creature that evolves by collecting DNA fragments. Each mutation unlocks new abilities, allowing you to overcome obstacles and solve increasingly complex platforming challenges.
-
+ 
 ---
 
 ## 🕹️ Gameplay
